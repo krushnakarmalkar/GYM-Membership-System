@@ -1,1 +1,0 @@
-# GYM-Membership-System
